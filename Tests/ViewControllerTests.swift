@@ -1,5 +1,5 @@
-//  Refactoring Clean Mess by Jon Reid, https://qualitycoding.org/refactoring-cleaning-mess/
-//  Copyright 2018 Quality Coding, Inc. See LICENSE.txt
+//  Refactor Small Steps by Jon Reid, https://qualitycoding.org/refactor-small-steps/
+//  Copyright 2021 Quality Coding, Inc. See LICENSE.txt
 
 @testable import RefactoringCleanMess
 import XCTest
